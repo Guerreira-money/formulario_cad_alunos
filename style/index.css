@@ -1,0 +1,59 @@
+body{
+    background-color: #00BFFF ;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100%; 
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #363636
+}
+
+.formulario {
+    background: #FFFF;
+    width: 600px;
+    height: 800px;
+    padding: 10px;
+    margin-top:0%;
+    display: flex;
+    line-height: 1;
+    marrgin-left: 0%;
+    margin-right: 0%;
+    justify-content: center; 
+    align-items: center; 
+}
+
+input.input-none {
+    margin: 10px 0; 
+    padding: 8px;
+    display: block; 
+    width: 100%; 
+    border-right: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-top: none;
+    border-left: none;
+    
+}
+
+h2{
+    text-decoration: solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #363636;
+    text-align: center;
+
+}
+
+textarea{
+    resize: none;
+    width: 100%; 
+}
+#botao input{
+    width: 50%;
+    align-items: center;
+    justify-items: center;
+    display: flex;
+    margin: 20px auto 0% auto;
+    padding: 8px;
+    
+    
+}
